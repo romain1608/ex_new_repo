@@ -1,1 +1,1 @@
-https://github.com/ThomasIdgeo/ws_git_cpgeom2325/tree/main
+https://github.com/ThomasIdgeo/tuto_git_cpgeom
